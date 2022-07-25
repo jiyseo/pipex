@@ -1,2 +1,0 @@
-parent process testVal=10
-clild process testVal=5
